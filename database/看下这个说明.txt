@@ -1,0 +1,8 @@
+1111：请先执行create database if not exists ParkingSys;创建一个数据库，
+然后再执行creat_database.sql，
+最后执行data_init.sql.
+
+MySQL数据库请设置成下面这样：
+账户：root
+密码：123456
+端口号：3306（默认的）
